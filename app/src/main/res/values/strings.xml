@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chaldea</string>
+    <string name="class_all">All</string>
+    <string name="class_saber">Saber</string>
+    <string name="class_archer">Archer</string>
+    <string name="class_lancer">Lancer</string>
+    <string name="class_caster">Caster</string>
+    <string name="desc_saber">—Knight of the Sword and Heroic Spirit of the Sword. A jack-of-all-trades warrior. Agile and powerful in close quarters; extremely adept at swordsmanship.—</string>
+    <string name="desc_archer">—Knight of the Bow and Heroic Spirit of the Bow. Excellent scouts that excel in possessing powerful Noble Phantasms. Masters of long ranged warfare.—</string>
+    <string name="desc_lancer">—Knight of the Lance and Heroic Spirit of the Lance. Gifted with extreme agility and proficient in hit-and-run tactics as well as ranged melee weapons such as spears and lances.—</string>
+    <string name="desc_caster">—Magus and Heroic Spirit of Spells and Sorcery. Specialists in magical combat and territory creation, wielding powerful spells that can alter the battlefield.—</string>
+</resources>
