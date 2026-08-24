@@ -1,11 +1,5 @@
 # Chaldea
 
-## Informasi Mahasiswa
-
-- Nama : Naufal Rakan Ramadhan
-- NIM : 2410501042
-- Kelas : B
-
 ## Deskripsi Aplikasi
 
 Chaldea adalah aplikasi Android yang berfungsi untuk menjelajahi daftar Servant dari game Fate/Grand Order (FGO). Aplikasi ini dirancang untuk menampilkan informasi dasar Servant.
